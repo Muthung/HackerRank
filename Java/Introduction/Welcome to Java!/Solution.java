@@ -1,4 +1,4 @@
-// github.com/Cl9ntn-m
+/// github.com/Cl9ntn-m
 
 public class Solution {
     public static void main(String[] args) {
